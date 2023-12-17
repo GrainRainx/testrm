@@ -12,3 +12,4 @@ bad
 aaa
 hello
 bbb
+hello
